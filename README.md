@@ -31,4 +31,5 @@ I like running, basketball, football.
 
 ### Colors
 
-I like blue.
+My favoriate color is green and blue.
+
