@@ -28,6 +28,8 @@ The best way to get in touch with me is
 
 I like running, basketball, football.
 
+
 ### Colors
 
-My favoriate color is green.
+My favoriate color is green and blue.
+
