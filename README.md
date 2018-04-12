@@ -28,7 +28,6 @@ The best way to get in touch with me is
 
 I like running, basketball, football.
 
-
 ### Colors
 
 I like blue.
