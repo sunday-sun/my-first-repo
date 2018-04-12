@@ -30,4 +30,4 @@ I like running, basketball, football.
 
 ### Colors
 
-I like blue.
+My favorite color is green.
